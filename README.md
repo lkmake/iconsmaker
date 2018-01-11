@@ -5,7 +5,8 @@
 1. Open .Workflow file with Automator.app (wait for loading... it's slow!)
 2. Click Run button, then choose target image and target output path.
 
-### iOS icons, Xcode 9
+
+### iOS, Xcode 9
 ```
 .
 ├── Icon-1024.png
@@ -26,7 +27,7 @@
 
 0 directories, 15 files
 ```
-### macOS icons, Xcode 9
+### macOS, Xcode 9
 ```
 .
 ├── Icon-128.png
@@ -41,4 +42,18 @@
 └── Icon-512@2x.png
 
 0 directories, 10 files
+```
+### watchOS, Xcode 9
+```
+.
+├── WatchIcon-1024.png
+├── WatchIcon-24@2x.png
+├── WatchIcon-27_5@2x.png
+├── WatchIcon-29@2x.png
+├── WatchIcon-29@3x.png
+├── WatchIcon-40.png
+├── WatchIcon-86@2x.png
+└── WatchIcon-98@2x.png
+
+0 directories, 8 files
 ```
