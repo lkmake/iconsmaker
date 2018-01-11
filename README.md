@@ -1,0 +1,1 @@
+# Automator workflows to generate app icons
