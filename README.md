@@ -62,6 +62,7 @@
 ```
 .
 ├── AppStore-1024.png
+├── AppStore-1024x768.png
 ├── MessageIcon-27x20@2x.png
 ├── MessageIcon-27x20@3x.png
 ├── MessageIcon-29x29@2x.png
@@ -73,6 +74,6 @@
 ├── MessageIcon-67x50@2x.png
 └── MessageIcon-74x55@2x.png
 
-0 directories, 11 files
+0 directories, 12 files
 ```
  
